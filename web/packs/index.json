@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "link-4s.json"
+  ],
+  "homeserver_url": "https://matrix.sillygoose.ac"
+}

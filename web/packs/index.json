@@ -1,7 +1,7 @@
 {
   "packs": [
-    "link-4s.json",
-    "blobhaj.json"
+    "blobhaj.json",
+    "link4s.json"
   ],
   "homeserver_url": "https://matrix.sillygoose.ac"
 }
